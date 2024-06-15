@@ -18,4 +18,3 @@ function valueChecker(a,b)  {
  let func = valueChecker(2+2)
 
     console.log(func); // print this function  in terminal window.
- 
